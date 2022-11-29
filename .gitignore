@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+SAMPLE.env
+api_config.env
+analysis.txt
